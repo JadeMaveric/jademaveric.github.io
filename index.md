@@ -1,15 +1,21 @@
 # Julius Alphonso
 
-[+91 9834310838](http://wa.me/+919834310838) | [juliusalphonso@pm.me](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Kaggle](https://www.kaggle.com/juliusalphonso) | [Twitter](https://twitter.com/JuliusAlphonso)
+[juliusalphonso@pm.me](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Kaggle](https://www.kaggle.com/juliusalphonso) | [Twitter](https://twitter.com/JuliusAlphonso)
 
 **Age**: 21 years (9 Feb 1999)
-**Location**: Margao, Goa
-**Current Occupation**: Student (Computer Engineering, Sem 7)
 
-**Strengths**: Fast learner; Highly technical; comfortable in technical and managerial positions; people person, enjoys working in teams
+**Location**: Margao, Goa 
+
+**Current Occupation**: Student (Computer Engineering, Sem 7) 
+
+
+**Strengths**: Fast learner; Highly technical; comfortable in technical and managerial positions; people person, enjoys working in teams 
+
 **Technical Skills**: Linux (Shell scripting, system administration); JavaScript (Node.js, React); Python (Numpy, Scipy, Pandas); Familiar with C, C++ and Assembly 
-**Academic Interests**: Data Structures and Algorithms; Data Science and Machine Learning
-**Non academic Interests**: Chess, Psychology, Literature, Piano, Oratory
+
+**Academic Interests**: Data Structures and Algorithms; Data Science and Machine Learning 
+
+**Non academic Interests**: Chess, Psychology, Literature, Piano, Oratory 
 
 ## **Education**
 
