@@ -1,4 +1,4 @@
-[juliusalphonso@pm.me](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Kaggle](https://www.kaggle.com/juliusalphonso) | [Twitter](https://twitter.com/JuliusAlphonso)
+[Email](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Kaggle](https://www.kaggle.com/juliusalphonso) | [Twitter](https://twitter.com/JuliusAlphonso)
 -----
 
 **Age**: 21 years (9 Feb 1999)  
