@@ -37,7 +37,9 @@
 1. **Hack2Help** (**1st place**) Built a [chat application for rural communities](https://github.com/JadeMaveric/MessageBoard). Designed it for feature phones like the JioPhone. Organised by *IEEE GEC SB* and *IIT Goa ACM* in association with *Dev Cluster* and *Mrinq Technologies LLP*
 2. **Inspirathon** (**1st place**) Built a [platform to keep college students committed](https://github.com/JadeMaveric/CollegeVenturers) to working on their projects, as well as help them connect with potential investors and mentors. Organised by *Don Bosco College of Engineering* in association with *F.I.I.R.E*
 3. **HackByTheBeach** (**top 10**) Built a[ tool to give insights into the users emotional and mental wellbeing](https://github.com/JadeMaveric/HackByTheBeach) based on their journal entries (which could be retrieved from any note taking app). Organised by *BITS Goa* in association with *DevFolio* and *CodeCamp*
-4. **IEEE Xtreme** (**1st place***) Participated in **Xtreme 12.0** in October 2018 and ranked 1st at the college level & state level, 2nd at the Bombay region of IEEE, 41st in India, 167th in Asia region and **473rd globally**
+4. **IEEE Xtreme** (**1st place***)
+    * Participated in **Xtreme 14.0** in October 2020 - ranked **15th in India**, and **259th globally**.
+    * Participated in **Xtreme 12.0** in October 2018 - ranked 1st at the college level & state level, 2nd at the Bombay region of IEEE, 41st in India, 167th in Asia region and **473rd globally**
 5. **Codathon** (**top 10**) Participated in **Codathon-2019** organised by *Visvesvaraya National Institute of Technology* in association with *HackerEarth*. Secured the **7th position** on the leaderboard.
 6. **Debugger X** (**1st place**)Participated in a debugging competition organised by *Agnel Polytechnic, Verna* in 2016.
 7. **Codetron 2017** (**1st place**) Participated in a coding competition organised by the newly elected student council of the *computer department*. The contest was open to all engineering students.
