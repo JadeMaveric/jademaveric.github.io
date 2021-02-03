@@ -45,6 +45,7 @@
 7. **Codetron 2017** (**1st place**) Participated in a coding competition organised by the newly elected student council of the *computer department*. The contest was open to all engineering students.
 8. **GMTK GameJam 2020** Participated in a Game Jam organised by Game Makers Toolkit. Built a game using the Godot game engine.
 9. **gsCTF** (**15th place**) Participated in a **Capture the Flag** competition organised by *GirlScript Goa*.
+10. **Pandora's Box CTF** (**2nd place**) Lost the lead at the last minute in a **Capture the Flag** competition organised by *Infosec IITGoa* under their techfest *Cepheus*. Won the special prize for best written writeup
 
 ## **Non Technical Experience**
 
