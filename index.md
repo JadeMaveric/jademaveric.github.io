@@ -60,7 +60,7 @@
 1. President, IEEE Student Branch, Goa College of Engineering (2020 - present)
 2. Vice-President, IEEE Computer Society, Goa College of Engineering (2019)
 3. Chairperson, FOSS Club, Goa College of Engineering (2018 - present)
-4. President, Music Club, Goa College of Engineering (2019 - present)
+4. President, Music Club, Goa College of Engineering (2019 - 2020)
 5. President, Youth Association, Carmelite Monastery, Margao (2018 - 2019)
 
 ### **Events Organised**
@@ -69,3 +69,9 @@
 2. All India IEEE Computer Society Students Youth Congress 2018
 3. TEDxGEC 2019
 4. Debutsav Goa 2019
+
+### **Competitons**
+
+1. **Inter School Elocution Competition** (**3rd Place**) Participanted in a higher secondary interschool elocution competition organised by the *PTA of Manovikas High School, Margao* in 2015.
+2. **AeroSoc Inter School Debate** (**2nd Place**) Organised by *Aeronautical Society of India, Goa Chapter* in 2016
+3. **Bard by the Mandovi** (**Gold Medal**) Participated in a Powerpoint aided elocution competition organised by *Chowgule College, Margao* as part of *The Shakespeare Festival*. Participated in 2015 and 2016, won 1st place in both years.
