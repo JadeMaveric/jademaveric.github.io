@@ -74,4 +74,4 @@
 
 1. **Inter School Elocution Competition** (**3rd Place**) Participanted in a higher secondary interschool elocution competition organised by the *PTA of Manovikas High School, Margao* in 2015.
 2. **AeroSoc Inter School Debate** (**2nd Place**) Organised by *Aeronautical Society of India, Goa Chapter* in 2016
-3. **Bard by the Mandovi** (**Gold Medal**) Participated in a Powerpoint aided elocution competition organised by *Chowgule College, Margao* as part of *The Shakespeare Festival*. Participated in 2015 and 2016, won 1st place in both years.
+3. **Bard by the Mandovi** (**1st Place**) Participated in a Powerpoint aided elocution competition organised by *Chowgule College, Margao* as part of *The Shakespeare Festival*. Participated in 2015 and 2016, won 1st place in both years.
