@@ -1,12 +1,11 @@
-[Email](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Kaggle](https://www.kaggle.com/juliusalphonso) | [Twitter](https://twitter.com/JuliusAlphonso)
+[Email](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Twitter](https://twitter.com/JuliusAlphonso)
 -----
 
-**Age**: 21 years (9 Feb 1999)  
-**Location**: Margao, Goa  
-**Current Occupation**: Student (Computer Engineering, Sem 7)  
+**Age**: 24 years (9 Feb 1999)  
+**Location**: Bangalore, India
 
 **Strengths**: Fast learner; Highly technical; comfortable in technical and managerial positions; people person, enjoys working in teams  
-**Technical Skills**: Linux (Shell scripting, system administration); JavaScript (Node.js, React); Python (Numpy, Scipy, Pandas); Familiar with C, C++ and Assembly  
+**Technical Skills**: Linux (Shell scripting, system administration); Java; MongoDB; JavaScript (Node.js, React); Python (Numpy, Scipy, Pandas)
 **Academic Interests**: Data Structures and Algorithms; Data Science and Machine Learning  
 **Non academic Interests**: Chess, Psychology, Literature, Piano, Oratory  
 
@@ -24,6 +23,16 @@
 
 ------
 
+### **Work Experience***
+1. **GoSwift.in**
+    a. Architected, built, and maintained an Order Management System using MongoDB, Express, and NodeJS.
+        - As the primary owner for feature development, scalability, and data sanity, developed functionalities such as invoicing and shipment tracking.
+        - Worked on integration with major e-commerce providers - Shopify, WooCommerce, Wix, Amazon
+    b. Worked end-to-end on data science projects to improve customer acquisition and reduce operation costs, using BigQuery and Python.
+        -Built a job server to orchestrate ELT pipelines using AsyncIO Python, ensuring smooth data processing and efficient delivery of insights.
+    c. Built an invoicing system using Java, automated invoice generation for the business team and reduced invoice processing times while improving invoice accuracy.
+    d. Ensured system stability and performance through handling pager duty and conducting regular performance audits on core systems based on Google Compute Engine, Kubernetes Engine, and Cloud Storage.
+    e. Maintained idiomatic standards across Python, TypeScript, and Java projects by performing thorough code reviews on large and complex codebases with thousands of lines of code.
 
 
 ### **Internships**
