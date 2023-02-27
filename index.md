@@ -15,7 +15,7 @@
 | ----------------------------------------- | -------------- | --------------- | ---------------- |
 | Loyola High School (2006-15)              | GBSHSE (Goa)   | SSC             | 82%              |
 | Vidya Vikas Academy (2015-17)             | CBSE           | HSSC            | 92%              |
-| Goa College of Engineering (2017-present) | Goa University | B.E.            | 76%              |
+| Goa College of Engineering (2017-2021) | Goa University | B.E.            | 76%              |
 
 ## **Technical Experience**
 
@@ -24,7 +24,7 @@
 ------
 
 ### **Work Experience**
-1. **GoSwift.in**
+1. **GoSwift.in** (Aug 2021 - Dec 2022)
     a. Architected, built, and maintained an Order Management System using MongoDB, Express, and NodeJS.
         - As the primary owner for feature development, scalability, and data sanity, developed functionalities such as invoicing and shipment tracking.
         - Worked on integration with major e-commerce providers - Shopify, WooCommerce, Wix, Amazon
