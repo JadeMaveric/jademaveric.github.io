@@ -23,7 +23,7 @@
 
 ------
 
-### **Work Experience***
+### **Work Experience**
 1. **GoSwift.in**
     a. Architected, built, and maintained an Order Management System using MongoDB, Express, and NodeJS.
         - As the primary owner for feature development, scalability, and data sanity, developed functionalities such as invoicing and shipment tracking.
