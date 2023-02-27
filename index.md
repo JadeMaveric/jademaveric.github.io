@@ -15,7 +15,7 @@
 | ----------------------------------------- | -------------- | --------------- | ---------------- |
 | Loyola High School (2006-15)              | GBSHSE (Goa)   | SSC             | 82%              |
 | Vidya Vikas Academy (2015-17)             | CBSE           | HSSC            | 92%              |
-| Goa College of Engineering (2017-present) | Goa University | B.E.            | 70% (till Sem 5) |
+| Goa College of Engineering (2017-present) | Goa University | B.E.            | 76%              |
 
 ## **Technical Experience**
 
