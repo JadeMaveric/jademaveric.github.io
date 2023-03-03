@@ -1,8 +1,7 @@
 [Email](mailto:juliusalphonso@pme.me) | [GitHub](https://github.com/JadeMaveric) | [LinkedIn ](https://www.linkedin.com/in/JuliusAlphonso/)| [Twitter](https://twitter.com/JuliusAlphonso)
 -----
 
-**Age**: 24 years (9 Feb 1999)  
-**Location**: Bangalore, India
+Hey, I'm Julius, a perpetually curious making a living with my engineering enthusiam. I'm the wizard behind the scenes, building robust backends for apps you know and love.
 
 **Strengths**: Fast learner; Highly technical; comfortable in technical and managerial positions; people person, enjoys working in teams  
 **Technical Skills**: Linux (Shell scripting, system administration); Java; MongoDB; JavaScript (Node.js, React); Python (Numpy, Scipy, Pandas)
