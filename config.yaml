@@ -1,0 +1,65 @@
+baseURL: "http://jademaveric.github.io"
+languageCode: "en-US"
+title: "Julius Alphonso"
+
+theme: "PaperMod"
+
+enableRobotsTXT: true
+
+
+menu:
+  main:
+    - about: about
+      name: About
+      url: /about/
+      weight: 10
+
+
+params:
+  description: "Julius Alphonso - Coded the universe before TDD was invented"
+  author: Julius Alphonso
+
+  label:
+    icon: "favicon_io/favicon.ico"
+
+  defaultTheme: auto
+
+  profileMode:
+    enabled: false
+    #imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
+    imageUrl: "/fun-profile-circle.png"
+    imageTitle: "my pwetty face :uwu:"
+    imageWidth: 180
+    imageHeight: 180
+    title: "Hey, I'm a Software Engineer"
+    subtitle: >
+      I'm the wizard behind the scenes, working on data-centric backends.
+        
+      I build the stuff you can't see, but can't live without
+    #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    buttons:
+      - name: Blog
+        url: blog
+    
+  homeInfoParams:
+    Title: "Software Engineer"
+    Content: >
+      I'm the wizard behind the scenes, working on data-centric backends.
+      I build the stuff you can't see, but can't live without
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/JadeMaveric"
+    - name: linkedin
+      url: "https://linkedin.com/in/JuliusAlphonso"
+    - name: twitter
+      url: "https://twitter.com/JuliusAlphonso"
+  
+  assets:
+    favicon: "/favicon_io/favicon.ico"
+    favicon16x16: "/favicon_io/favicon-16x16.ico"
+    favico32x32n: "/favicon_io/favico-32x32n.ico"
+    apple_touch_icon: "favicon_io/apple-touch-icon"
+    safari_pinned_tab: "favicon_io/apple-touch-icon"
+  
+  disableTechStackAck: true
