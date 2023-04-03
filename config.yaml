@@ -9,10 +9,18 @@ enableRobotsTXT: true
 
 menu:
   main:
+    - about: blog
+      name: Blog
+      url: /blog/
+      weight: 8
+    - about: resume
+      name: Resume
+      url: "https://drive.google.com/file/d/1GbAScXt0auUYAur1GQD8LvNZbyKYY_B_/view?usp=sharing"
+      weight: 9
     - about: about
       name: About
       url: /about/
-      weight: 10
+      weight: 7
 
 
 params:
@@ -28,18 +36,18 @@ params:
     enabled: false
     #imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
     imageUrl: "/fun-profile-circle.png"
-    imageTitle: "my pwetty face :uwu:"
+    imageTitle: "yes, that's me!"
     imageWidth: 180
     imageHeight: 180
-    title: "Hey, I'm a Software Engineer"
+    title: "Hey! I'm Julius 👋"
     subtitle: >
       I'm the wizard behind the scenes, working on data-centric backends.
         
-      I build the stuff you can't see, but can't live without
+      I build the stuff you can't see, but can't live without 🚀
     #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-    buttons:
-      - name: Blog
-        url: blog
+    # buttons:
+    #   - name: Blog
+    #     url: blog
     
   homeInfoParams:
     Title: "Software Engineer"
@@ -54,6 +62,8 @@ params:
       url: "https://linkedin.com/in/JuliusAlphonso"
     - name: twitter
       url: "https://twitter.com/JuliusAlphonso"
+    - name: email
+      url: "mailto:juliusalphonso.09@gmail.com"
   
   assets:
     favicon: "/favicon_io/favicon.ico"
@@ -63,3 +73,6 @@ params:
     safari_pinned_tab: "favicon_io/apple-touch-icon"
   
   disableTechStackAck: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
